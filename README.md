@@ -9,7 +9,7 @@ is a foundation for developing more advanced software.
 
 ## Software Demo Video
 
-[Software Demo Video](YOUR_YOUTUBE_LINK_HERE)
+[Software Demo Video](https://www.youtube.com/watch?v=5LSSWZuxyg0)
 
 # Development Environment
 
